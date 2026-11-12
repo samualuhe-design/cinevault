@@ -1,0 +1,575 @@
+{
+    "carpetas": [
+        "General",
+        "Favoritas",
+        "60s",
+        "70s",
+        "80s",
+        "90s",
+        "00s",
+        "10s",
+        "20s"
+    ],
+    "peliculas": [
+        {
+            "id": 33492,
+            "titulo": "Psicosis",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 87612,
+            "titulo": "La dolce vita",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 38623,
+            "titulo": "Lawrence de Arabia",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 69172,
+            "titulo": "8½",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 45138,
+            "titulo": "¿Teléfono rojo?, volamos hacia Moscú",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 39020,
+            "titulo": "El bueno, el malo y el feo",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 80295,
+            "titulo": "Persona",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 40765,
+            "titulo": "2001: Odisea del espacio",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 35961,
+            "titulo": "La noche de los muertos vivientes",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 78100,
+            "titulo": "La pandilla salvaje",
+            "carpeta": "60s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 75210,
+            "titulo": "El Padrino",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 71681,
+            "titulo": "El exorcista",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 72956,
+            "titulo": "Barrio Chino",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 83454,
+            "titulo": "El Padrino II",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 19797,
+            "titulo": "Taxi Driver",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 49200,
+            "titulo": "Star Wars: Episodio IV",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 42124,
+            "titulo": "Annie Hall",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 83242,
+            "titulo": "Alien, el octavo pasajero",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 82279,
+            "titulo": "Apocalypse Now",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 46014,
+            "titulo": "Tiburon",
+            "carpeta": "70s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 34910,
+            "titulo": "Toro salvaje",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 22961,
+            "titulo": "El resplandor",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 53601,
+            "titulo": "Star Wars: Episodio V",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 17015,
+            "titulo": "Los cazadores del arca perdida",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 29782,
+            "titulo": "Blade Runner",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 38736,
+            "titulo": "La cosa",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 88209,
+            "titulo": "Amadeus",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 19593,
+            "titulo": "Volver al futuro",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 47786,
+            "titulo": "The Karate kid",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 33214,
+            "titulo": "Haz lo correcto",
+            "carpeta": "80s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 50394,
+            "titulo": "Buenos muchachos",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 35984,
+            "titulo": "El silencio de los inocentes",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 96236,
+            "titulo": "Jurassic Park",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 88608,
+            "titulo": "La lista de Schindler",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 19620,
+            "titulo": "Pulp Fiction",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 53909,
+            "titulo": "Sueño de fuga",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 28219,
+            "titulo": "Se7en: Los siete pecados capitales",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 72724,
+            "titulo": "Fargo",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 12878,
+            "titulo": "El club de la pelea",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 37965,
+            "titulo": "Matrix",
+            "carpeta": "90s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 65759,
+            "titulo": "El viaje de Chihiro",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 96986,
+            "titulo": "Deseando amar",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 71354,
+            "titulo": "El Señor de los Anillos: El retorno del Rey",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 15102,
+            "titulo": "Ciudad de Dios",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 10745,
+            "titulo": "Oldboy",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 43296,
+            "titulo": "Eterno resplandor de una mente sin recuerdos",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 32653,
+            "titulo": "El laberinto del fauno",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 17782,
+            "titulo": "Sin lugar para los débiles",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 28004,
+            "titulo": "Petróleo sangriento",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 92759,
+            "titulo": "Batman: El caballero de la noche",
+            "carpeta": "00s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 76025,
+            "titulo": "El origen",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 49355,
+            "titulo": "Red social",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 36559,
+            "titulo": "Whiplash: Música y obsesión",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 86898,
+            "titulo": "Interestelar",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 77465,
+            "titulo": "Mad Max: Furia en el camino",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 80515,
+            "titulo": "Luz de luna",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 27564,
+            "titulo": "La llegada",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 39387,
+            "titulo": "Get Out",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 68527,
+            "titulo": "Spider-Man: Un nuevo universo",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 43113,
+            "titulo": "Parásitos",
+            "carpeta": "10s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 33649,
+            "titulo": "El padre",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 96823,
+            "titulo": "Drive My Car",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 64705,
+            "titulo": "Duna",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 40935,
+            "titulo": "Todo en todas partes al mismo tiempo",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 30953,
+            "titulo": "TÁR",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 82558,
+            "titulo": "Aftersun",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 93313,
+            "titulo": "Oppenheimer",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 85216,
+            "titulo": "Anatomía de una caída",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 82877,
+            "titulo": "Pobres criaturas",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        },
+        {
+            "id": 20558,
+            "titulo": "Duna: Parte Dos",
+            "carpeta": "20s",
+            "rating": "Sin calificar",
+            "estado": "Pendiente",
+            "nota": ""
+        }
+    ]
+}
